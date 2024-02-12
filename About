@@ -1,0 +1,45 @@
+Enter file contents here
+Repository to store Knowledge, ideas, notes, etc.
+Scratch notes
+URLs/Bookmarks
+
+
+Learn more about ReadMEs https://docs.github.com/github/creating-cloning-and-archiving-repositories/about-readmes
+Learn more about ignoring files https://docs.github.com/github/using-git/ignoring-files
+Learn more about licenses https://docs.github.com/github/creating-cloning-and-archiving-repositories/licensing-a-repository
+
+This will set main as the default branch. Change the default name in your settings. 
+Settings: https://github.com/settings/repositories
+
+ Add collaborators to this repository
+Search for people using their GitHub username or email address.
+https://github.com/abdulmajidnaveed0/Knowledge/settings/access
+
+Quick setup — if you’ve done this kind of thing before
+ Set up in Desktop  x-github-client://openRepo/https://github.com/abdulmajidnaveed0/Knowledge
+or  HTTPS | SSH    HTTPS: [https://github.com/abdulmajidnaveed0/Knowledge.git] , SSH:  [git@github.com:abdulmajidnaveed0/Knowledge.git]
+Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore. 
+Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore. 
+Creating a new file https://github.com/abdulmajidnaveed0/Knowledge/new/main   
+Uploading an exising file https://github.com/abdulmajidnaveed0/Knowledge/upload 
+
+
+…or create a new repository on the command line
+echo "# Knowledge" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/abdulmajidnaveed0/Knowledge.git
+git push -u origin main
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/abdulmajidnaveed0/Knowledge.git
+git branch -M main
+git push -u origin main
+
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project. 
+Import code https://github.com/abdulmajidnaveed0/Knowledge/import
+ 
+
