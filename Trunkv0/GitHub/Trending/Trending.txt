@@ -1,0 +1,239 @@
+
+
+Trending repositories
+·
+See more
+
+@awslabs profile
+awslabs/llrt   https://github.com/awslabs/llrt
+LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
+JavaScript
+3.8k
+
+
+@phidatahq profile
+phidatahq/phidata   https://github.com/phidatahq/phidata
+Build AI Assistants using function calling 
+
+
+
+
+https://github.com/trending
+
+
+
+Trending
+
+See what the GitHub community is most excited about today.
+
+
+
+Repositories | Developers
+
+
+
+awslabs / llrt
+
+LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
+JavaScript
+3,785 125 Built by @richarddavison @nikp @maxday @syrusakbary @simon0191
+578 stars today
+
+
+phidatahq / phidata
+
+Build AI Assistants using function calling
+Python
+1,352 148 Built by @ashpreetbedi @ysolanky @abhishek-ch @vishwajeetdabholkar @ivanfioravanti
+171 stars today
+
+
+subquery / subql
+
+SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.
+TypeScript
+13,617 239 Built by @jiqiang90 @stwiname @ianhe8x @bz888 @guplersaxanoid
+455 stars today
+
+
+metavoiceio / metavoice-src
+
+Foundational model for human-like, expressive TTS
+Python
+1,688 200 Built by @sidroopdaska @vatsalaggarwal @pyetras @lucapericlp @eltociear
+245 stars today
+
+
+Orange-OpenSource / hurl
+
+Hurl, run and test HTTP requests with plain text.
+Rust
+8,118 270 Built by @fabricereix @jcamiel @hurl-bot @lepapareil @actions-user
+197 stars today
+
+
+cyberus-technology / virtualbox-kvm
+
+VirtualBox with KVM Backend
+C
+624 81 Built by @tpressure @messemar @blitz @hertrste @parthy
+150 stars today
+
+
+AleoHQ / leo
+
+🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications
+Rust
+4,395 721 Built by @collinc97 @d0cd @gluax @howardwu @acoglio
+156 stars today
+
+
+FujiwaraChoki / MoneyPrinter
+
+Automate Creation of YouTube Shorts using MoviePy.
+Python
+7,062 844 Built by @FujiwaraChoki @gptjozef @radry @1NoobDev @stumi01
+1,254 stars today
+
+
+microsoft / sudo
+
+It's sudo, for Windows
+PowerShell
+1,511 38 Built by @zadjii-msft @shanselman @asw101 @andrewcrook @AlexHimself
+286 stars today
+
+
+jixserver / free-for-dev
+
+A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+1,903 289 Built by @ripienaar @TraderStf @Reubend @SangramChavan @galexandre
+279 stars today
+
+
+GoogleCloudPlatform / localllm
+Python
+1,263 108 Built by @kmontg @bobcatfish @bdmorgan @Wauplin @jerop
+418 stars today
+
+
+MrForExample / ComfyUI-3D-Pack
+
+An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)
+Python
+554 64 Built by @MrForExample
+107 stars today
+
+
+RustPython / RustPython
+
+A Python Interpreter written in Rust
+Rust
+16,982 1,225 Built by @youknowone @coolreader18 @fanninpm @windelbouwman @palaviv
+113 stars today
+
+
+
+Pandora-Labs-Org / erc404-legacy
+Solidity
+83 44 Built by @caldereth @0xacme @yyd106
+33 stars today
+
+
+hcengineering / platform
+
+Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
+Svelte
+793 83 Built by @haiodo @BykhovDenis @SasLord @aplatoff @ThetaDR
+315 stars today
+
+
+projectx-codehagen / projectx
+
+ProjectX aims to simplify financial management with a user-friendly interface and robust backend
+TypeScript
+915 94 Built by @meglerhagen @donaminos @pablo-kitz @alexghirelli @akkikumar72
+117 stars today
+
+
+odin-lang / Odin
+
+Odin Programming Language
+Odin
+5,103 450 Built by @gingerBill @Kelimion @ThisDevDane @ftphikari @colrdavidson
+75 stars today
+
+
+sangammukherjee / 25-reactjs-interview-projects
+JavaScript
+84 27 Built by @sangammukherjee
+2 stars today
+
+
+AntonioErdeljac / next13-lms-platform
+TypeScript
+627 281 Built by @AntonioErdeljac
+2 stars today
+
+
+bevyengine / bevy
+
+A refreshingly simple data-driven game engine built in Rust
+Rust
+30,451 2,986 Built by @cart @bors @github-merge-queue @mockersf @alice-i-cecile
+27 stars today
+
+
+MetaMask / metamask-extension
+
+🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+JavaScript
+11,167 4,914 Built by @danfinlay @kumavis @danjm @Gudahtt @whymarrh
+16 stars today
+
+
+denoland / deno
+
+A modern runtime for JavaScript and TypeScript.
+Rust
+92,274 5,241 Built by @bartlomieju @ry @dsherret @littledivy @lucacasonato
+83 stars today
+
+
+dockersamples / example-voting-app
+
+Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
+C#
+4,041 8,773 Built by @bfirsh @ManoMarks @BretFisher @sixeyed @aanand
+50 stars today
+
+
+
+magicbear / palworld-server-toolkit
+
+PalWorld Server Toolkits - For Save file modify, list the players, repair sav file, etc...
+Python
+178 31 Built by @magicbear @MapleEve @KrisCris @cs8425
+16 stars today
+
+
+conductor-oss / conductor
+
+Conductor is a microservices orchestration engine.
+Java
+3,066 91 Built by @v1r3n @c4lm @boney9 @Young-Zen @saksham2105
+108 stars today
+
+
+Footer
+© 2024 GitHub, Inc.
+Footer navigation
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact
+
+
