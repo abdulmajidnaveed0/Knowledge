@@ -86,6 +86,8 @@ Learn how to use the inserted and deleted tables with DML triggers to inspect ch
 https://learn.microsoft.com/en-us/sql/relational-databases/triggers/use-the-inserted-and-deleted-tables?view=sql-server-ver16
 
 
+---- 
+# Markdown Practice
 
 g[github markdown line break]:>>  
 
@@ -99,7 +101,7 @@ line 4
 
 
 
-1. Headings:
+#1. Headings:
 
 # Heading1
 ## Heading2
@@ -109,7 +111,7 @@ line 4
 ###### Heading6
 
 
-2. Line Breaks
+#2. Line Breaks
 
 Markdown Way  
 of breaking
@@ -117,19 +119,19 @@ of breaking
 HTML way <br>
 of breaking
 
-3. Emphasis
+#3. Emphasis
 
 **Bold**   __Bold__
 *Italic*  _Italic_
 
 
 ***Hybrid***
-___Hybird___
+___Hybrid___
 **_Hybrid_**
 *__Hybrid__*
 
 
-4. Blockquotes
+#4. Blockquotes
 
 
 > This is a blockquote
@@ -145,12 +147,18 @@ ___Hybird___
 > Ending main blockquote
 
 
+#5. Code
+
+
 <html>
 <body>
 <p>Let’s keep it as a code block and not render it for once</p>
 </body>
 </html>
 
+
+
+After indenting by (prefix) 4 spaces:
 
     <html>
      <body>
@@ -159,7 +167,7 @@ ___Hybird___
     </html>
 
 
-6. Lists
+#6. Lists
 
 Unordered List :-
 
@@ -172,18 +180,32 @@ Unordered List :-
     - Item3
 
 
+  * Item1
+  * Item2
+   * Item3
+
+  - Item1
+  - Item2
+   - Item3
+
+
 Ordered List :-
 
     1. Item1
     2. Item2
     3. Item3
 
+ 1. Item1
+  2. Item2
+   3. Item3
 
-7. Horizontal Rules
+
+#7. Horizontal Rules
 
 To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___).
 
 
+Code:  
     ---
 
     ****
@@ -191,14 +213,28 @@ To create a horizontal rule, use three or more asterisks (***), dashes (---), or
     ___ ____
 
 
+
+ ---
+
+  ****
+
+   ___ ____
+
+
+
 8. Links
 
 
+    [Link text](Link URL)  
     [Link to Portfolio Website](https://gaganpreetkaurkalsi.netlify.app/)
-    [Link tet](Link URL)
 
 
-9. Images
+  [Link text](Link URL)  
+  [Link to Portfolio Website](https://gaganpreetkaurkalsi.netlify.app/)
+
+
+
+##9. Images
 
 
 ![Alt text](path to img file)
@@ -206,14 +242,30 @@ To create a horizontal rule, use three or more asterisks (***), dashes (---), or
     ![Main](https://media.giphy.com/media/wKoPDy4mp8Lr6IJ9ce/giphy.gif)
 
 
-10. Video
+ ![text](https://media.giphy.com/media/wKoPDy4mp8Lr6IJ9ce/giphy.gif)
+
+ ![alt text](https://miro.medium.com/v2/resize:fit:640/format:webp/1*b7y9iLMTD0drlC3Eh6E31A.png)
+
+ ![txt](https://miro.medium.com/v2/1*b7y9iLMTD0drlC3Eh6E31A.png)
 
 
-https://giphy.com/gifs/N0wznJyowLpyfHpjDq?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fcdn.embedly.com%2F
+
+##10. Video
+
+
+https://giphy.com/gifs/YoGRICBoJi6Y2NcdqU?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fcdn.embedly.com%2F
+
+
+https://giphy.com/gifs/N0wznJyowLpyfHpjDq?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fcdn.embedly.com%2F  
+
+
+
 ![alt text](
 https://giphy.com/gifs/N0wznJyowLpyfHpjDq?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fcdn.embedly.com%2F)
 
-11. Labels:
+
+
+##11. Labels:
 
  
 ![GitHub all releases](https://img.shields.io/github/downloads/{username}/{repo-name}/total)
@@ -223,12 +275,27 @@ https://giphy.com/gifs/N0wznJyowLpyfHpjDq?utm_source=iframe&utm_medium=embed&utm
 ![GitHub forks](https://img.shields.io/github/forks/{username}/{repo-name}?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/{username}/{repo-name}?style=social)
 
-12. Table
+##12. Table
 
 | Header1 | Header2 | Header3 |
 | — — — | — — — — — -| — — — — — |
 | R1C1 | R1C2 | R1C3 |
 | R2C1 | R2C2 | R2C3 |
+
+
+| Header1 | Header2 | Header3 |
+| - - - | - - - - - -| --- -- |
+| R1C1 | R1C2 | R1C3 |
+| R2C1 | R2C2 | R2C3 |
+
+
+Table with Alignment :-
+
+To align items :-
+
+    Left Align —     :---
+    Center Align —   :---:
+    Right Align —    ---:
 
 
 
