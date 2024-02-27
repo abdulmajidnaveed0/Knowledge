@@ -3,7 +3,9 @@ URLs from Desktop:
 
 
 https://angular-docs-chi.vercel.app/  Angular ❤️ – Nextra
+
 https://gravatar.com/ Gravatar - Globally Recognized Avatars
+
 https://www.nyam.pe.kr/  Sejin Chun's Website
 
 
@@ -85,17 +87,186 @@ https://learn.microsoft.com/en-us/sql/relational-databases/triggers/use-the-inse
 
 
 
+g[github markdown line break]:>>  
+
+https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796
+
+line 1    
+line 2 
+line 3
+
+line 4
 
 
 
+1. Headings:
+
+# Heading1
+## Heading2
+### Heading3
+#### Heading4
+##### Heading5
+###### Heading6
+
+
+2. Line Breaks
+
+Markdown Way  
+of breaking
+
+HTML way <br>
+of breaking
+
+3. Emphasis
+
+**Bold**   __Bold__
+*Italic*  _Italic_
+
+
+***Hybrid***
+___Hybird___
+**_Hybrid_**
+*__Hybrid__*
+
+
+4. Blockquotes
+
+
+> This is a blockquote
+>
+> This is next line
+
+
+> This is main Blockquote
+> >This is nested Blockquote
+> >
+> > Ending nested blockquote
+>
+> Ending main blockquote
+
+
+<html>
+<body>
+<p>Let’s keep it as a code block and not render it for once</p>
+</body>
+</html>
+
+
+    <html>
+     <body>
+      <p>Let’s keep it as a code block and not render it for once</p>
+     </body>
+    </html>
+
+
+6. Lists
+
+Unordered List :-
+
+    * Item1
+    * Item2
+    * Item3
+
+    - Item1
+    - Item2
+    - Item3
+
+
+Ordered List :-
+
+    1. Item1
+    2. Item2
+    3. Item3
+
+
+7. Horizontal Rules
+
+To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___).
+
+
+    ---
+
+    ****
+
+    ___ ____
+
+
+8. Links
+
+
+    [Link to Portfolio Website](https://gaganpreetkaurkalsi.netlify.app/)
+    [Link tet](Link URL)
+
+
+9. Images
+
+
+![Alt text](path to img file)
+
+    ![Main](https://media.giphy.com/media/wKoPDy4mp8Lr6IJ9ce/giphy.gif)
+
+
+10. Video
+
+
+https://giphy.com/gifs/N0wznJyowLpyfHpjDq?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fcdn.embedly.com%2F
+![alt text](
+https://giphy.com/gifs/N0wznJyowLpyfHpjDq?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fcdn.embedly.com%2F)
+
+11. Labels:
+
+ 
+![GitHub all releases](https://img.shields.io/github/downloads/{username}/{repo-name}/total)
+![GitHub language count](https://img.shields.io/github/languages/count/{username}/{repo-name})
+![GitHub top language](https://img.shields.io/github/languages/top/{username}/{repo-name}?color=yellow)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/{username}/{repo-name})
+![GitHub forks](https://img.shields.io/github/forks/{username}/{repo-name}?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/{username}/{repo-name}?style=social)
+
+12. Table
+
+| Header1 | Header2 | Header3 |
+| — — — | — — — — — -| — — — — — |
+| R1C1 | R1C2 | R1C3 |
+| R2C1 | R2C2 | R2C3 |
 
 
 
+| Header1 | Header2 | Header3 |
+| :---- | :----: | ----: |
+| R1C1 | R1C2 | R1C3 |
+| R2C1 | R2C2 | R2C3 |
 
 
+13. Task List
+
+- [x] Write a blog
+- [x] Make it interesting
+- [ ] Publish it
 
 
+14. Add COLOR
 
+```diff
+- This is a red colored line
++ This is a green colored line
+@@ This is a purple colored line @@
+```
+
+15. Write text as CODE
+
+    `Hello This is a code`
+
+    `` Using `single back ticks` inside double back ticks``
+
+16. 
+16. Add Emoji 😊
+
+ https://emojipedia.org/
+
+ 👏 ⭐ 👋 
+
+https://gaganpreetkaurkalsi.netlify.app/
 
 
 
