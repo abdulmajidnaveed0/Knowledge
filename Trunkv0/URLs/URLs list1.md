@@ -86,23 +86,35 @@ Learn how to use the inserted and deleted tables with DML triggers to inspect ch
 https://learn.microsoft.com/en-us/sql/relational-databases/triggers/use-the-inserted-and-deleted-tables?view=sql-server-ver16
 
 
+<br><br><br><br>
 ---- 
+
+<br>
+
 # Markdown Practice
 
 g[github markdown line break]:>>  
-
 https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796
 
 line 1    
 line 2 
 line 3
 
-line 4
-
+line 4  
+line 5
 
 ----
 
-## 1. Headings:
+# 1. Headings:
+
+<br>
+
+    # Heading1
+    ## Heading2
+    ### Heading3
+    #### Heading4
+    ##### Heading5
+    ###### Heading6
 
 
 # Heading1
@@ -115,11 +127,14 @@ line 4
 
 ## 2. Line Breaks
 
+
 Markdown Way  
 of breaking
 
+
 HTML way <br>
 of breaking
+
 
 ## 3. Emphasis
 
