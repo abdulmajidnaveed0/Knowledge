@@ -121,7 +121,7 @@ of breaking
 HTML way <br>
 of breaking
 
-## 3) Emphasis
+## 3. Emphasis
 
 **Bold**   __Bold__
 *Italic*  _Italic_
@@ -133,7 +133,7 @@ ___Hybrid___
 *__Hybrid__*
 
 
-## 4) Blockquotes
+## 4. Blockquotes
 
 
 > This is a blockquote
@@ -149,7 +149,7 @@ ___Hybrid___
 > Ending main blockquote
 
 
-#5) Code
+## 5. Code
 
 
 <html>
@@ -169,7 +169,7 @@ After indenting by (prefix) 4 spaces:
     </html>
 
 
-#6) Lists
+## 6. Lists
 
 Unordered List :-
 
@@ -202,7 +202,7 @@ Ordered List :-
    3. Item3
 
 
-#7) Horizontal Rules
+## 7. Horizontal Rules
 
 To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___).
 
@@ -225,7 +225,7 @@ Code:
 
 
 
-#8) Links
+## 8. Links
 
     .
     [Link text](Link URL)  
@@ -237,7 +237,7 @@ Code:
 
 
 
-#9) Images
+## 9. Images
 
 
 ![Alt text](path to img file)
@@ -256,7 +256,7 @@ Code:
 
 
 
-#10) Video
+## 10. Video
 
 
     https://giphy.com/gifs/YoGRICBoJi6Y2NcdqU?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fcdn.embedly.com%2F
@@ -271,7 +271,7 @@ https://giphy.com/gifs/N0wznJyowLpyfHpjDq?utm_source=iframe&utm_medium=embed&utm
 
 
 
-#11) Labels (Badges / shields https://shields.io/)
+## 11. Labels (Badges / shields https://shields.io/)
 
 
 Format:  
@@ -306,7 +306,7 @@ Rendered badges
 
 
 
-#12) Table
+## 12. Table
 
 Format:
 
@@ -340,14 +340,14 @@ To align items :-
 
 
 
-#13) Task List
+## 13. Task List
 
 - [x] Write a blog
 - [x] Make it interesting
 - [ ] Publish it
 
 
-#14) Add COLOR
+## 14. Add COLOR
 
 ```diff
 - This is a red colored line
@@ -355,14 +355,14 @@ To align items :-
 @@ This is a purple colored line @@
 ```
 
-#15) Write text as CODE
+## 15. Write text as CODE
 
     `Hello This is a code`
 
     `` Using `single back ticks` inside double back ticks``
 
 16 
-16) Add Emoji 😊
+## 16. Add Emoji 😊
 
  https://emojipedia.org/
 
