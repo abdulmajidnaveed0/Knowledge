@@ -102,7 +102,7 @@ line 4
 
 ----
 
-#1) Headings:
+## 1. Headings:
 
 
 # Heading1
@@ -113,7 +113,7 @@ line 4
 ###### Heading6
 
 
-#2) Line Breaks
+## 2. Line Breaks
 
 Markdown Way  
 of breaking
@@ -121,7 +121,7 @@ of breaking
 HTML way <br>
 of breaking
 
-#3) Emphasis
+## 3) Emphasis
 
 **Bold**   __Bold__
 *Italic*  _Italic_
@@ -133,7 +133,7 @@ ___Hybrid___
 *__Hybrid__*
 
 
-#4) Blockquotes
+## 4) Blockquotes
 
 
 > This is a blockquote
@@ -274,7 +274,8 @@ https://giphy.com/gifs/N0wznJyowLpyfHpjDq?utm_source=iframe&utm_medium=embed&utm
 #11) Labels (Badges / shields https://shields.io/)
 
 
-Format:
+Format:  
+
     ![GitHub all releases](https://img.shields.io/github/downloads/{username}/{repo-name}/total)
     ![GitHub language count](https://img.shields.io/github/languages/count/{username}/{repo-name})
     ![GitHub top language](https://img.shields.io/github/languages/top/{username}/{repo-name}?color=yellow)
