@@ -289,6 +289,23 @@ https://giphy.com/gifs/N0wznJyowLpyfHpjDq)
 https://www.loom.com/share/ec986689ac1d4a8f85475b81ccad2f5f
 
 
+Found example here
+
+https://github.com/alelievr/Mixture/blob/0.4.0/README.md
+
+
+https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
+
+https://user-images.githubusercontent.com/6877923/123006036-64e2e780-d3b7-11eb-922e-018994b32da5.mov
+
+
+
+<video src="https://user-images.githubusercontent.com/126239/151336683-4f0c423a-7bd5-4580-888b-4c08fdfdd4e9.mp4"></video>
+
+https://github.com/mfitzp/diffcast
+
+
+
 ## 11. Labels (Badges / shields https://shields.io/)
 
 
@@ -388,6 +405,164 @@ To align items :-
 
 
 https://gaganpreetkaurkalsi.netlify.app/
+
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#youtube-videos
+https://github.com/mfitzp/diffcast
+
+youtube video thumbnail images
+https://ardalis.com/how-to-embed-youtube-video-in-github-readme-markdown/
+
+https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+
+
+
+💯
+
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+- ![txt](https://placehold.it/150/ffffff/ff0000?text=hello)
+
+https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file
+https://stackoverflow.com/questions/23904274/is-there-a-way-to-get-colored-text-in-githubflavored-markdown
+ https://github.com/github/markup/issues/1440 
+  https://github.com/github/markup/issues/369
+
+ #### $\textcolor{red}{\textsf{Color didint work .}}$ 
+
+
+```json
+   { key: value}
+```
+```html
+   // Code for coloring
+   <html><body><div>Text></div></body></html>
+```
+```js
+   // Code for coloring
+   // Code for coloring
+   function f1(){
+     return [1,2,3]
+   }
+```
+```css
+   // Code for coloring
+   * { background-color: lime;}
+```
+
+
+
+
+    RED APPLE (&#x1F34E;): 🍎
+    GREEN APPLE (&#x1F34F;): 🍏
+    BLUE HEART (&#x1F499;): 💙
+    GREEN HEART (&#x1F49A;): 💚
+    YELLOW HEART (&#x1F49B;): 💛
+    PURPLE HEART (&#x1F49C;): 💜
+    GREEN BOOK (&#x1F4D7;): 📗
+    BLUE BOOK (&#x1F4D8;): 📘
+    ORANGE BOOK (&#x1F4D9;): 📙
+    LARGE RED CIRCLE (&#x1F534;): 🔴
+    LARGE BLUE CIRCLE (&#x1F535;): 🔵
+    LARGE ORANGE DIAMOND (&#x1F536;): 🔶
+    LARGE BLUE DIAMOND (&#x1F537;): 🔷
+    SMALL ORANGE DIAMOND (&#x1F538;): 🔸
+    SMALL BLUE DIAMOND (&#x1F539;): 🔹
+    UP-POINTING RED TRIANGLE (&#x1F53A;): 🔺
+    DOWN-POINTING RED TRIANGLE (&#x1F53B;): 🔻
+    UP-POINTING SMALL RED TRIANGLE (&#x1F53C;): 🔼
+    DOWN-POINTING SMALL RED TRIANGLE (&#x1F53D;): 🔽
+
+
+$\textcolor{magenta}{\textsf{Should be magenta}}$ 
+
+
+
+Code 	Appearing
+$${\color{red}Red}$$ 	$${\color{red}Red}$$
+$${\color{green}Green}$$ 	$${\color{green}Green}$$
+$${\color{lightgreen}Light \space Green}$$ 	$${\color{lightgreen}Light \space Green}$$
+$${\color{blue}Blue}$$ 	$${\color{blue}Blue}$$
+$${\color{lightblue}Light \space Blue}$$ 	$${\color{lightblue}Light \space Blue}$$
+$${\color{black}Black}$$ 	$${\color{black}Black}$$
+$${\color{white}White}$$ 	$${\color{white}White}$$
+$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+
+
+🔴🟠🟡🟢🔵🟣🟤⚫⚪🔘🛑⭕
+
+🟥🟧🟨🟩🟦🟪🟫⬛⬜🔲🔳⏹☑✅❎
+
+❤️🧡💛💚💜💙🤎🖤🤍♥️💔💖💘💝💗💓💟💕❣️♡
+
+🔺🔻🔷🔶🔹🔸♦💠💎💧🧊
+
+🏴🏳🚩🏁
+
+◻️◼️◾️◽️▪️▫️
+
+🏿 🏾 🏽 🏼 🏻
+
+
+`#00ffff`
+`#ffffff`
+`rgba(0,0,0,1)`
+
+
+
+> [!note]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!important]  
+> Crucial information necessary for users to succeed.
+
+> [!Warning]  
+> Critical content demanding immediate user attention due to potential risks.
+
+
+
+![](https://img.shields.io/static/v1?label=&message=Ааи&color=green)
+
+
+[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
+[![](https://img.shields.io/badge/book-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
+[![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
+[![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
+[![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
+
+
+💡 or 🛑 
+
+ 🅰️🅱️🅾️; parking sign 🅿️; metro sign Ⓜ️; a few others with two or more letters, such as 🆗, and boxed digits such as 0️⃣. Flag emojis will show as letters (often colored) if the flag is not available: 🇯🇵 🇰🇷 🇩🇪 🇨🇳 🇺🇸 🇫🇷 🇪🇸 🇮🇹 🇷🇺 🇬🇧.
+
+
+
+https://gist.github.com/pvrego/2e346674c3abbaa6366dfe86b8488dc9
+
+> ```diff
+> - **WELCOME EVERYONE**
+> 
+> > *a*
+> ```
+
+
+
+
+
+
+
+
+
+
+
 
 
 
