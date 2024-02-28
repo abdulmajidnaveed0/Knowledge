@@ -100,8 +100,10 @@ line 3
 line 4
 
 
+----
 
-#1. Headings:
+#1) Headings:
+
 
 # Heading1
 ## Heading2
@@ -111,7 +113,7 @@ line 4
 ###### Heading6
 
 
-#2. Line Breaks
+#2) Line Breaks
 
 Markdown Way  
 of breaking
@@ -119,7 +121,7 @@ of breaking
 HTML way <br>
 of breaking
 
-#3. Emphasis
+#3) Emphasis
 
 **Bold**   __Bold__
 *Italic*  _Italic_
@@ -131,7 +133,7 @@ ___Hybrid___
 *__Hybrid__*
 
 
-#4. Blockquotes
+#4) Blockquotes
 
 
 > This is a blockquote
@@ -147,7 +149,7 @@ ___Hybrid___
 > Ending main blockquote
 
 
-#5. Code
+#5) Code
 
 
 <html>
@@ -167,7 +169,7 @@ After indenting by (prefix) 4 spaces:
     </html>
 
 
-#6. Lists
+#6) Lists
 
 Unordered List :-
 
@@ -200,12 +202,13 @@ Ordered List :-
    3. Item3
 
 
-#7. Horizontal Rules
+#7) Horizontal Rules
 
 To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___).
 
 
 Code:  
+
     ---
 
     ****
@@ -222,7 +225,7 @@ Code:
 
 
 
-8. Links
+#8) Links
 
     .
     [Link text](Link URL)  
@@ -234,7 +237,7 @@ Code:
 
 
 
-##9. Images
+#9) Images
 
 
 ![Alt text](path to img file)
@@ -244,16 +247,19 @@ Code:
 
  ![text](https://media.giphy.com/media/wKoPDy4mp8Lr6IJ9ce/giphy.gif)
 
+
+    ![alt text](https://miro.medium.com/v2/resize:fit:640/format:webp/1*b7y9iLMTD0drlC3Eh6E31A.png)
+
  ![alt text](https://miro.medium.com/v2/resize:fit:640/format:webp/1*b7y9iLMTD0drlC3Eh6E31A.png)
 
  ![txt](https://miro.medium.com/v2/1*b7y9iLMTD0drlC3Eh6E31A.png)
 
 
 
-##10. Video
+#10) Video
 
 
-https://giphy.com/gifs/YoGRICBoJi6Y2NcdqU?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fcdn.embedly.com%2F
+    https://giphy.com/gifs/YoGRICBoJi6Y2NcdqU?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fcdn.embedly.com%2F
 
 
 https://giphy.com/gifs/N0wznJyowLpyfHpjDq?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fcdn.embedly.com%2F  
@@ -265,22 +271,49 @@ https://giphy.com/gifs/N0wznJyowLpyfHpjDq?utm_source=iframe&utm_medium=embed&utm
 
 
 
-##11. Labels:
+#11) Labels (Badges / shields https://shields.io/)
 
- 
-![GitHub all releases](https://img.shields.io/github/downloads/{username}/{repo-name}/total)
-![GitHub language count](https://img.shields.io/github/languages/count/{username}/{repo-name})
-![GitHub top language](https://img.shields.io/github/languages/top/{username}/{repo-name}?color=yellow)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/{username}/{repo-name})
-![GitHub forks](https://img.shields.io/github/forks/{username}/{repo-name}?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/{username}/{repo-name}?style=social)
 
-##12. Table
+Format:
+    ![GitHub all releases](https://img.shields.io/github/downloads/{username}/{repo-name}/total)
+    ![GitHub language count](https://img.shields.io/github/languages/count/{username}/{repo-name})
+    ![GitHub top language](https://img.shields.io/github/languages/top/{username}/{repo-name}?color=yellow)
+    ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/{username}/{repo-name})
+    ![GitHub forks](https://img.shields.io/github/forks/{username}/{repo-name}?style=social)
+    ![GitHub Repo stars](https://img.shields.io/github/stars/{username}/{repo-name}?style=social)
 
-| Header1 | Header2 | Header3 |
-| — — — | — — — — — -| — — — — — |
-| R1C1 | R1C2 | R1C3 |
-| R2C1 | R2C2 | R2C3 |
+
+https://github.com/abdulmajidnaveed0/Angularwork
+Rendered badges
+
+    ![GitHub all releases](https://img.shields.io/github/downloads/abdulmajidnaveed0/Angularwork/total)
+    ![GitHub language count](https://img.shields.io/github/languages/count/abdulmajidnaveed0/Angularwork)
+    ![GitHub top language](https://img.shields.io/github/languages/top/abdulmajidnaveed0/Angularwork?color=yellow)
+    ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/abdulmajidnaveed0/Angularwork)
+    ![GitHub forks](https://img.shields.io/github/forks/abdulmajidnaveed0/Angularwork?style=social)
+    ![GitHub Repo stars](https://img.shields.io/github/stars/abdulmajidnaveed0/Angularwork?style=social)
+
+
+![GitHub all releases](https://img.shields.io/github/downloads/abdulmajidnaveed0/Angularwork/total)  
+![GitHub language count](https://img.shields.io/github/languages/count/abdulmajidnaveed0/Angularwork)  
+![GitHub top language](https://img.shields.io/github/languages/top/abdulmajidnaveed0/Angularwork?color=yellow)  
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/abdulmajidnaveed0/Angularwork)  
+![GitHub forks](https://img.shields.io/github/forks/abdulmajidnaveed0/Angularwork?style=social)  
+![GitHub Repo stars](https://img.shields.io/github/stars/abdulmajidnaveed0/Angularwork?style=social)  
+
+
+
+
+
+#12) Table
+
+Format:
+
+
+    | Header1 | Header2 | Header3 |
+    | — — — | — — — — — -| — — — — — |
+    | R1C1 | R1C2 | R1C3 |
+    | R2C1 | R2C2 | R2C3 |
 
 
 | Header1 | Header2 | Header3 |
@@ -305,14 +338,15 @@ To align items :-
 | R2C1 | R2C2 | R2C3 |
 
 
-13. Task List
+
+#13) Task List
 
 - [x] Write a blog
 - [x] Make it interesting
 - [ ] Publish it
 
 
-14. Add COLOR
+#14) Add COLOR
 
 ```diff
 - This is a red colored line
@@ -320,18 +354,19 @@ To align items :-
 @@ This is a purple colored line @@
 ```
 
-15. Write text as CODE
+#15) Write text as CODE
 
     `Hello This is a code`
 
     `` Using `single back ticks` inside double back ticks``
 
-16. 
-16. Add Emoji 😊
+16 
+16) Add Emoji 😊
 
  https://emojipedia.org/
 
  👏 ⭐ 👋 
+
 
 https://gaganpreetkaurkalsi.netlify.app/
 
