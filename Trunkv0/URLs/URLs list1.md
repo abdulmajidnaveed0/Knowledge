@@ -224,10 +224,10 @@ Code:
 
 8. Links
 
-
+    .
     [Link text](Link URL)  
     [Link to Portfolio Website](https://gaganpreetkaurkalsi.netlify.app/)
-
+    .
 
   [Link text](Link URL)  
   [Link to Portfolio Website](https://gaganpreetkaurkalsi.netlify.app/)
@@ -284,7 +284,7 @@ https://giphy.com/gifs/N0wznJyowLpyfHpjDq?utm_source=iframe&utm_medium=embed&utm
 
 
 | Header1 | Header2 | Header3 |
-| - - - | - - - - - -| --- -- |
+|---|-- --|---- -|
 | R1C1 | R1C2 | R1C3 |
 | R2C1 | R2C2 | R2C3 |
 
