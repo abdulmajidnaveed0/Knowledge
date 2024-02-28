@@ -282,8 +282,11 @@ https://giphy.com/gifs/N0wznJyowLpyfHpjDq?utm_source=iframe&utm_medium=embed&utm
 
 
 ![alt text](
-https://giphy.com/gifs/N0wznJyowLpyfHpjDq?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fcdn.embedly.com%2F)
+https://giphy.com/gifs/N0wznJyowLpyfHpjDq)
 
+![Loom video](https://www.loom.com/share/ec986689ac1d4a8f85475b81ccad2f5f)
+
+https://www.loom.com/share/ec986689ac1d4a8f85475b81ccad2f5f
 
 
 ## 11. Labels (Badges / shields https://shields.io/)
