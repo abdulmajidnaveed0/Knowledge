@@ -1,4 +1,7 @@
 
+https://asciidoc.org/  > DocBook, Markdown, DITA, restructuredText, HTML
+
+
 URLs from Desktop:
 
 
@@ -421,7 +424,7 @@ https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
-
+```
 
 
 💯
@@ -531,6 +534,8 @@ $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverf
 
 ![](https://img.shields.io/static/v1?label=&message=Ааи&color=green)
 
+![](https://img.shields.io/static/v1?label=&message=Yaas&color=green)
+
 
 [![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
 [![](https://img.shields.io/badge/book-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
@@ -547,6 +552,7 @@ $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverf
 
 https://gist.github.com/pvrego/2e346674c3abbaa6366dfe86b8488dc9
 
+
 > ```diff
 > - **WELCOME EVERYONE**
 > 
@@ -557,6 +563,7 @@ https://gist.github.com/pvrego/2e346674c3abbaa6366dfe86b8488dc9
 📚
 🧪
 🌐
+
 
 > ```diff
 > - **WELCOME EVERYONE**
@@ -587,14 +594,33 @@ https://gist.github.com/pvrego/2e346674c3abbaa6366dfe86b8488dc9
 
 ---
 
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+Footnotes
+
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].  
+
+You can also use words, to fit your writing style more closely[^note].
+
+[^1]: My reference.
+[^2]: Every new line should be prefixed with 2 spaces.  
+  This allows you to have a footnote with multiple lines.
+[^note]:
+    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
+    This footnote also has been made with a different syntax using 4 spaces for new lines.
+
+----
 
 
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
 
-
-
-
-
-
+https://stackoverflow.com/questions/18244417/how-do-i-create-some-kind-of-table-of-content-in-github-wiki
 
 
 
