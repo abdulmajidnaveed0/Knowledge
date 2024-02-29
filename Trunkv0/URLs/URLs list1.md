@@ -569,7 +569,7 @@ https://gist.github.com/pvrego/2e346674c3abbaa6366dfe86b8488dc9
 > ```diff
 > - **WELCOME EVERYONE**
 > 
-> > *a*
+> > *a why is this green? some mystery*
 > \+ 1g
 > \- 2r
 > *\+ 1g*
@@ -584,8 +584,8 @@ https://gist.github.com/pvrego/2e346674c3abbaa6366dfe86b8488dc9
 # text in gray
 @@ text in purple (and bold)@@
 - text in red
-*+ text in green*
-*! text in orange*
+> > *+ text in green*
+> > *! text in orange*
 # text in gray
 @@ text in purple (and bold)@@
 ```
@@ -607,6 +607,7 @@ https://gist.github.com/pvrego/2e346674c3abbaa6366dfe86b8488dc9
 ---
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 Footnotes
 
 Here is a simple footnote[^1].
@@ -624,6 +625,8 @@ You can also use words, to fit your writing style more closely[^note].
 
 ----
 
+https://stackoverflow.com/questions/18244417/how-do-i-create-some-kind-of-table-of-content-in-github-wiki
+
 
 ##### Table of Contents  
 [Headers](#headers)  
@@ -632,7 +635,107 @@ You can also use words, to fit your writing style more closely[^note].
 <a name="headers"/>
 ## Headers
 
-https://stackoverflow.com/questions/18244417/how-do-i-create-some-kind-of-table-of-content-in-github-wiki
+---
+
+
+https://github.com/lifeparticle/Markdown-Cheatsheet?tab=readme-ov-file#diff-code-block
+
+### Alerts (8 January 2024)
+ 
+> [!NOTE]
+> Essential details that users should not overlook, even when browsing quickly.
+
+> [!TIP]
+> Additional advice to aid users in achieving better outcomes.
+
+> [!IMPORTANT]
+> Vital information required for users to attain success.
+
+> [!WARNING]
+> Urgent content that requires immediate user focus due to possible risks.
+
+> [!CAUTION]
+> Possible negative outcomes resulting from an action.
+
+
+Color models
+`#ffffff`
+`#000000`
+
+:octocat:
+
+Monospaced
+<samp>The quick brown fox jumps over the lazy dog.</samp>
+
+Underlined
+<ins>The quick brown fox jumps over the lazy dog.</ins>
+
+Strike-through
+~~The quick brown fox jumps over the lazy dog.~~
+
+
+2 <sup>53-1</sup> and -2 <sup>53-1</sup>
+Subscript <sub>The quick brown fox jumps over the lazy dog.</sub>
+Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
+
+---
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+ 
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+---
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+
+
+
+
+-----
+
+
+https://daringfireball.net/projects/markdown/syntax#backslash
+
+Backslash Escapes
+
+
+Markdown provides backslash escapes for the following characters:
+
+
+    \   backslash
+    `   backtick
+    *   asterisk
+    _   underscore
+    {}  curly braces
+    []  square brackets
+    ()  parentheses
+    #   hash mark
+    +   plus sign
+    -   minus sign (hyphen)
+    .   dot
+    !   exclamation mark
+
+
+
+\\   backslash
+\`   backtick
+\*   asterisk
+\_   underscore
+\{\}  curly braces
+\[\]  square brackets
+\(\)  parentheses
+\#   hash mark
+\+   plus sign
+\-   minus sign (hyphen)
+\.   dot
+\!   exclamation mark
+
+
+
+
+
+
 
 
 
