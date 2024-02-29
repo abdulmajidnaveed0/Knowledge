@@ -802,6 +802,17 @@ github streak:
 github activity graph:
 [![Naereen's github activity graph](https://activity-graph.herokuapp.com/graph?username=Naereen&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+[![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naereen&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulmajidnaveed0&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulmajidnaveed0)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulmajidnaveed0&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 top languages:
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -821,10 +832,11 @@ a
 
 a
 
-### See https://shields.io/badges 
+### See https://shields.io/badges below:
 
 ![ab](https://img.shields.io/badge/any_text-you_like-blue)
 ![ab](https://img.shields.io/badge/text-green)
+
 
 ![cd](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 
