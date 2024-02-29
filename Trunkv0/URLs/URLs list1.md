@@ -735,6 +735,105 @@ Markdown provides backslash escapes for the following characters:
 
 
 
+----
+
+
+https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
+https://github.com/tchapi/markdown-cheatsheet
+
+Markdown Cheatsheet<a name="TOP"></a>
+
+
+Hotkey:
+
+<kbd>⌘F</kbd>
+
+<kbd>⇧⌘F</kbd>
+
+    Markup : <kbd>⌘F</kbd>
+
+Hotkey list:
+
+| Key | Symbol |
+| --- | --- |
+| Option | ⌥ |
+| Control | ⌃ |
+| Command | ⌘ |
+| Shift | ⇧ |
+| Caps Lock | ⇪ |
+| Tab | ⇥ |
+| Esc | ⎋ |
+| Power | ⌽ |
+| Return | ↩ |
+| Delete | ⌫ |
+| Up | ↑ |
+| Down | ↓ |
+| Left | ← |
+| Right | → |
+
+Emoji:
+
+:exclamation: Use emoji icons to enhance text. :+1:  Look up emoji codes at [emoji-cheat-sheet.com](http://emoji-cheat-sheet.com/)
+
+    Markup : Code appears between colons :EMOJICODE:
+
+[Go To TOP](#TOP)
+
+
+---
+
+https://github.com/Naereen/badges?tab=readme-ov-file
+
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
+
+📜 🚈 💦 💥📓🚀✨
+
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+
+[![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
+
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+
+
+[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
+[![Naereen's github activity graph](https://activity-graph.herokuapp.com/graph?username=Naereen&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+https://github-readme-streak-stats.herokuapp.com/demo/
+
+🔥
+
+### https://shields.io/badges
+
+https://img.shields.io/badge/any_text-you_like-blue
+![ab](https://img.shields.io/badge/any_text-you_like-blue)
+
+![cd](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
