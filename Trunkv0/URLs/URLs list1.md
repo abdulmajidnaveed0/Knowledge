@@ -684,7 +684,6 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
  
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
----
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
@@ -741,7 +740,7 @@ Markdown provides backslash escapes for the following characters:
 https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
 https://github.com/tchapi/markdown-cheatsheet
 
-Markdown Cheatsheet<a name="TOP"></a>
+Markdown Cheatsheet<a name="TOP">Top</a>
 
 
 Hotkey:
@@ -792,28 +791,40 @@ https://github.com/Naereen/badges?tab=readme-ov-file
 
 [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 
+
+Sparkline: 
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 
+github streak:
 [![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-
+github activity graph:
 [![Naereen's github activity graph](https://activity-graph.herokuapp.com/graph?username=Naereen&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+top languages:
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
+
+github stats:
 [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
+github trophy:
 [![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 https://github-readme-streak-stats.herokuapp.com/demo/
 
+a
+
 🔥
 
-### https://shields.io/badges
+a
 
-https://img.shields.io/badge/any_text-you_like-blue
+### See https://shields.io/badges 
+
 ![ab](https://img.shields.io/badge/any_text-you_like-blue)
+![ab](https://img.shields.io/badge/text-green)
 
 ![cd](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 
