@@ -434,6 +434,7 @@ https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-
 - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
 - ![txt](https://placehold.it/150/ffffff/ff0000?text=hello)
 
+
 https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file
 https://stackoverflow.com/questions/23904274/is-there-a-way-to-get-colored-text-in-githubflavored-markdown
  https://github.com/github/markup/issues/1440 
@@ -571,6 +572,8 @@ https://gist.github.com/pvrego/2e346674c3abbaa6366dfe86b8488dc9
 > > *a*
 > \+ 1g
 > \- 2r
+> *\+ 1g*
+> *\- 2r*
 > 
 > ```
 
@@ -580,10 +583,19 @@ https://gist.github.com/pvrego/2e346674c3abbaa6366dfe86b8488dc9
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
-
+- text in red
+*+ text in green*
+*! text in orange*
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 
 ---
+
+// https://pandao.github.io/editor.md/en.html
+
+
 
 **Table of Contents**
 
