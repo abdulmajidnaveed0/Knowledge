@@ -553,14 +553,39 @@ https://gist.github.com/pvrego/2e346674c3abbaa6366dfe86b8488dc9
 > > *a*
 > ```
 
+🧠
+📚
+🧪
+🌐
+
+> ```diff
+> - **WELCOME EVERYONE**
+> 
+> > *a*
+> \+ 1g
+> \- 2r
+> 
+> ```
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
 
 
 
+---
+
+**Table of Contents**
+
+[TOCM]
+
+[TOC]
 
 
-
-
-
+---
 
 
 
