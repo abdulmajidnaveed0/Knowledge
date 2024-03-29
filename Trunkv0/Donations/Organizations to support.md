@@ -1,6 +1,7 @@
 
 
-From Ads:
+From Ads:  
+
 → Mansour Shouman partners.alamal-international.com/campaigns/gaza/FUNRCDHSNNU/  <br>
 → Ad SQ partners.getmoredonations.org/campaign/gaza/FUNZDJGCVKY/  
 → Ad Humaniti https://give.muslimi.com/humaniti-hot-meals-1  
