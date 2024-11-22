@@ -1,0 +1,90 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>File Load 2</title>
+</head>
+<body>
+<h1> File Load 3 (Using XMLHttpRequest)
+</h1>
+<pre>
+From 
+ https://stackoverflow.com/questions/196498/how-do-i-load-the-contents-of-a-text-file-into-a-javascript-variable
+ https://stackoverflow.com/questions/21640561/javascript-xmlhttprequest-access-control-allow-origin-errors
+</pre>
+
+<input type="file" id="file-input" />
+<h3>Contents of the file:</h3>
+<pre id="file-content"></pre>  
+  
+</body>
+
+
+<script>  
+
+function loadLocalFile() {
+ 'use strict';
+
+ var clientreq = new XMLHttpRequest();
+ var filetoload = 'file2.html'; //'/foo.txt'
+
+/* 
+ filetoload = `
+https://raw.githubusercontent.com/abdulmajidnaveed0/Knowledge/refs/heads/main/Trunkv0/URLs/URLs%20list1.txt
+`;
+//"https://github.com/abdulmajidnaveed0/Knowledge/blob/main/Trunkv0/Donations/Organizations%20to%20support.md";
+*/
+
+ //clientreq.open('GET', '/foo.txt');
+ clientreq.open('GET', filetoload);
+
+// clientreq.setRequestHeader('Access-Control-Allow-Headers', '*');
+// clientreq.setRequestHeader('Access-Control-Allow-Origin', '*');
+
+ //clientreq.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded' );
+// clientreq.setRequestHeader('Content-Type', 'text/plain' );
+
+
+ clientreq.onreadystatechange = function() {
+  //alert(client.responseText);
+  displayContents(client.responseText);
+ }
+ clientreq.send();
+}
+loadLocalFile();
+
+
+var xhr=new XMLHttpRequest();
+xhr.open("GET","https://12Me21.github.io/test.txt");
+xhr.onload=function(){
+    console.log(xhr.responseText);
+}
+xhr.send();
+
+
+// repeated Code
+document.getElementById('file-input')
+  .addEventListener('change', readSingleFile, false);
+function readSingleFile(e) {
+  var file = e.target.files[0];
+  if (!file) {
+    return;
+  }
+  var reader = new FileReader();
+  reader.onload = function(e) {
+    var contents = e.target.result;
+    displayContents(contents);
+  };
+  reader.readAsText(file);
+}
+
+function displayContents(contents) {
+  var element = document.getElementById('file-content');
+  element.textContent = contents;
+}
+
+
+</script>
+</html>

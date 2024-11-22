@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>File Load 1</title>
+</head>
+<body>
+<h1> File Load 1 </h1>
+<p> From https://stackoverflow.com/questions/14446447/how-to-read-a-local-text-file-in-the-browser</p>
+ <input type="file" id="myFile">
+ <hr>
+ <textarea style="width:500px;height: 400px" id="output"></textarea>
+
+<!-- <input type="file" onchange="this.files[0].text().then(t => console.log(t))"> -->
+  
+  
+</body>
+<script>
+  var input = document.getElementById("myFile");
+var output = document.getElementById("output");
+
+
+input.addEventListener("change", function () {
+  if (this.files && this.files[0]) {
+    var myFile = this.files[0];
+    var reader = new FileReader();
+    
+    reader.addEventListener('load', function (e) {
+      output.textContent = e.target.result;
+    });
+    
+    reader.readAsBinaryString(myFile);
+  }   
+});
+</script>
+</html>
