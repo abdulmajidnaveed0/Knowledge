@@ -28,7 +28,7 @@ function loadLocalFile() {
  'use strict';
 
  var clientreq = new XMLHttpRequest();
- var filetoload = 'file2.html'; //'/foo.txt'
+ var filetoload = 'fileload2.html'; //'/foo.txt'
 
 /* 
  filetoload = `
@@ -48,8 +48,8 @@ https://raw.githubusercontent.com/abdulmajidnaveed0/Knowledge/refs/heads/main/Tr
 
 
  clientreq.onreadystatechange = function() {
-  //alert(client.responseText);
-  displayContents(client.responseText);
+  //alert(clientreq.responseText);
+  displayContents(clientreq.responseText);
  }
  clientreq.send();
 }
